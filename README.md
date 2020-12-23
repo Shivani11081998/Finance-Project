@@ -5,8 +5,10 @@ Group Members : Shivani Juneja, Prashant Sharma,
 
 Domain : Finance
 
-Problem Statement : To predict whether a person will fraud in his insurance.
+Problem Statement : To predict whether a person will fraud in his automobile insurance.
 
-Software used : Python, R
+Software used : Python
+
+Data : 
 
 
