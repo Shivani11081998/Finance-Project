@@ -9,6 +9,6 @@ Problem Statement : To predict whether a person will fraud in his automobile ins
 
 Software used : Python
 
-Data : 
+
 
 
