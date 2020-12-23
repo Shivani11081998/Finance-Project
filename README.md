@@ -1,8 +1,7 @@
 # Finance-Project
 
-Group Members : Shivani Juneja, Prashant Sharma
+Group Members : Shivani Juneja, PrashantSharma,
                 Kanu Priya, Rajat Sharma
-
 
 Domain : Finance
 
