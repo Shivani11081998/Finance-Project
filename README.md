@@ -1,11 +1,11 @@
 # Finance-Project
 
-Group Members : Shivani Juneja, PrashantSharma,
+Group Members : Shivani Juneja, Prashant Sharma,
                 Kanu Priya, Rajat Sharma
 
 Domain : Finance
 
-Problem Statement : 
+Problem Statement : To predict whether a person will fraud in his insurance.
 
 Software used : Python, R
 
